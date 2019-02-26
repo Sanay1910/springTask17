@@ -1,4 +1,5 @@
-package
+package no.experis.task17;
+
 public class task17 {
     public static void main(String[] args) {
         //createNewDatabase("people.sqlite");

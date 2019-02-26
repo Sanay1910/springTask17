@@ -1,3 +1,5 @@
+package no.experis.task17;
+
 import java.sql.*;
 
 public class Create {

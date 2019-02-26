@@ -8,23 +8,22 @@ public class Task17Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Task17Application.class, args);
-	}
-	//createNewDatabase("people.sqlite");
-	//createNewTable();
-	Create create = new Create();
-	Insert insert = new Insert();
-	Select select = new Select();
-	Delete delete = new Delete();
-	Update update = new Update();
-	Menu run = new Menu();
-	//run.menu(select);
+		//createNewDatabase("people.sqlite");
+		//createNewTable();
+		Create create = new Create();
+		Insert insert = new Insert();
+		Select select = new Select();
+		Delete delete = new Delete();
+		Update update = new Update();
+		Menu run = new Menu();
+		//run.menu(select);
 
-	//create.relation();
+		//create.relation();
 
-        select.relatives();
+		select.relatives();
 
-	//create.relationType();
-	//create.newDatabase("people.sqlite");
+		//create.relationType();
+		//create.newDatabase("people.sqlite");
 
         /*
         insert.relationType("Father");
@@ -64,8 +63,10 @@ public class Task17Application {
         insert.homeAddress(1, "Bergen");
         insert.homeAddress(3, "Talulu");
         */
-	//select.person();
-	//select.personAll();
+		//select.person();
+		//select.personAll();
+
+	}
 
 
 }

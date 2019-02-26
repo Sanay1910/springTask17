@@ -1,4 +1,4 @@
-package no.experis.task17.Task17;
+package no.experis.task17;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
